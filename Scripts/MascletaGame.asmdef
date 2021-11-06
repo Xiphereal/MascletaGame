@@ -1,0 +1,15 @@
+{
+    "name": "MascletaGame",
+    "references": [
+        "GUID:0c2327525ba46ee4b8c70f62c12a579b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
